@@ -2,13 +2,6 @@ body {
   text-align: center;
   background-color: #283149;
 }
-body {
-  color: purple;
-}
-
-div {
-  background-color: currentcolor;
-}
 
 h1 {
   font-size: 5rem;
@@ -23,7 +16,7 @@ footer {
   font-family: Times New Roman;
 }
 
-.w {
+.m {
   background-image: url("images/tom1.png");
 }
 
@@ -31,23 +24,23 @@ footer {
   background-image: url("images/tom2.png");
 }
 
-.s {
+.n {
   background-image: url("images/tom3.png");
 }
 
-.d {
+.j {
   background-image: url("images/tom4.png");
 }
 
-.j {
+.u {
   background-image: url("images/snare.png");
 }
 
-.k {
+.l {
   background-image: url("images/crash.png");
 }
 
-.l {
+.a {
   background-image: url("images/kick.png");
 }
 
@@ -56,7 +49,7 @@ footer {
 }
 
 .game-over {
-  background-color: red;
+  background-color:orange;
   opacity: 0.8;
 }
 
@@ -65,8 +58,8 @@ footer {
   opacity: 0.5;
 }
 
-.red {
-  color: red;
+.orange {
+  color: orange;
 }
 
 .drum {
@@ -84,5 +77,5 @@ footer {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  background-color: pink;
 }
