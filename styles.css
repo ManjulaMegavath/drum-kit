@@ -58,8 +58,8 @@ footer {
   opacity: 0.5;
 }
 
-.yellow {
-  color: yellow;
+.red {
+  color: red;
 }
 
 .drum {
@@ -77,5 +77,5 @@ footer {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: pink;
+  background-color: blue;
 }
