@@ -2,18 +2,25 @@ body {
   text-align: center;
   background-color: #283149;
 }
+body {
+  color: purple;
+}
+
+div {
+  background-color: currentcolor;
+}
 
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Arvo", cursive;
+  font-family: "Times New Roman", Times, serif;
   text-shadow: 3px 0 #DA0463;
 
 }
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: Times New Roman;
 }
 
 .w {
